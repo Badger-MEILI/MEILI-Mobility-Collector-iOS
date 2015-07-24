@@ -1,0 +1,448 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F454E66F1B62358900AD43E7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F454E66E1B62358900AD43E7 /* main.m */; };
+		F454E6721B62358900AD43E7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F454E6711B62358900AD43E7 /* AppDelegate.m */; };
+		F454E6751B62358900AD43E7 /* Mobility_Collector.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F454E6731B62358900AD43E7 /* Mobility_Collector.xcdatamodeld */; };
+		F454E6781B62358900AD43E7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F454E6771B62358900AD43E7 /* ViewController.m */; };
+		F454E67B1B62358900AD43E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F454E6791B62358900AD43E7 /* Main.storyboard */; };
+		F454E67D1B62358900AD43E7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F454E67C1B62358900AD43E7 /* Images.xcassets */; };
+		F454E6801B62358900AD43E7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F454E67E1B62358900AD43E7 /* LaunchScreen.xib */; };
+		F454E68C1B62358900AD43E7 /* Mobility_CollectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F454E68B1B62358900AD43E7 /* Mobility_CollectorTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F454E6861B62358900AD43E7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F454E6611B62358800AD43E7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F454E6681B62358900AD43E7;
+			remoteInfo = "Mobility Collector";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F454E6691B62358900AD43E7 /* Mobility Collector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mobility Collector.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F454E66D1B62358900AD43E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F454E66E1B62358900AD43E7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F454E6701B62358900AD43E7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		F454E6711B62358900AD43E7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F454E6741B62358900AD43E7 /* Mobility_Collector.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Mobility_Collector.xcdatamodel; sourceTree = "<group>"; };
+		F454E6761B62358900AD43E7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		F454E6771B62358900AD43E7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		F454E67A1B62358900AD43E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F454E67C1B62358900AD43E7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		F454E67F1B62358900AD43E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		F454E6851B62358900AD43E7 /* Mobility CollectorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mobility CollectorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F454E68A1B62358900AD43E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F454E68B1B62358900AD43E7 /* Mobility_CollectorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Mobility_CollectorTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F454E6661B62358900AD43E7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F454E6821B62358900AD43E7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F454E6601B62358800AD43E7 = {
+			isa = PBXGroup;
+			children = (
+				F454E66B1B62358900AD43E7 /* Mobility Collector */,
+				F454E6881B62358900AD43E7 /* Mobility CollectorTests */,
+				F454E66A1B62358900AD43E7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F454E66A1B62358900AD43E7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F454E6691B62358900AD43E7 /* Mobility Collector.app */,
+				F454E6851B62358900AD43E7 /* Mobility CollectorTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F454E66B1B62358900AD43E7 /* Mobility Collector */ = {
+			isa = PBXGroup;
+			children = (
+				F454E6701B62358900AD43E7 /* AppDelegate.h */,
+				F454E6711B62358900AD43E7 /* AppDelegate.m */,
+				F454E6761B62358900AD43E7 /* ViewController.h */,
+				F454E6771B62358900AD43E7 /* ViewController.m */,
+				F454E6791B62358900AD43E7 /* Main.storyboard */,
+				F454E67C1B62358900AD43E7 /* Images.xcassets */,
+				F454E67E1B62358900AD43E7 /* LaunchScreen.xib */,
+				F454E6731B62358900AD43E7 /* Mobility_Collector.xcdatamodeld */,
+				F454E66C1B62358900AD43E7 /* Supporting Files */,
+			);
+			path = "Mobility Collector";
+			sourceTree = "<group>";
+		};
+		F454E66C1B62358900AD43E7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F454E66D1B62358900AD43E7 /* Info.plist */,
+				F454E66E1B62358900AD43E7 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F454E6881B62358900AD43E7 /* Mobility CollectorTests */ = {
+			isa = PBXGroup;
+			children = (
+				F454E68B1B62358900AD43E7 /* Mobility_CollectorTests.m */,
+				F454E6891B62358900AD43E7 /* Supporting Files */,
+			);
+			path = "Mobility CollectorTests";
+			sourceTree = "<group>";
+		};
+		F454E6891B62358900AD43E7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F454E68A1B62358900AD43E7 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F454E6681B62358900AD43E7 /* Mobility Collector */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F454E68F1B62358900AD43E7 /* Build configuration list for PBXNativeTarget "Mobility Collector" */;
+			buildPhases = (
+				F454E6651B62358900AD43E7 /* Sources */,
+				F454E6661B62358900AD43E7 /* Frameworks */,
+				F454E6671B62358900AD43E7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Mobility Collector";
+			productName = "Mobility Collector";
+			productReference = F454E6691B62358900AD43E7 /* Mobility Collector.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F454E6841B62358900AD43E7 /* Mobility CollectorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F454E6921B62358900AD43E7 /* Build configuration list for PBXNativeTarget "Mobility CollectorTests" */;
+			buildPhases = (
+				F454E6811B62358900AD43E7 /* Sources */,
+				F454E6821B62358900AD43E7 /* Frameworks */,
+				F454E6831B62358900AD43E7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F454E6871B62358900AD43E7 /* PBXTargetDependency */,
+			);
+			name = "Mobility CollectorTests";
+			productName = "Mobility CollectorTests";
+			productReference = F454E6851B62358900AD43E7 /* Mobility CollectorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F454E6611B62358800AD43E7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "Adrian Corneliu Prelipcean";
+				TargetAttributes = {
+					F454E6681B62358900AD43E7 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					F454E6841B62358900AD43E7 = {
+						CreatedOnToolsVersion = 6.4;
+						TestTargetID = F454E6681B62358900AD43E7;
+					};
+				};
+			};
+			buildConfigurationList = F454E6641B62358800AD43E7 /* Build configuration list for PBXProject "Mobility Collector" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F454E6601B62358800AD43E7;
+			productRefGroup = F454E66A1B62358900AD43E7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F454E6681B62358900AD43E7 /* Mobility Collector */,
+				F454E6841B62358900AD43E7 /* Mobility CollectorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F454E6671B62358900AD43E7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F454E67B1B62358900AD43E7 /* Main.storyboard in Resources */,
+				F454E6801B62358900AD43E7 /* LaunchScreen.xib in Resources */,
+				F454E67D1B62358900AD43E7 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F454E6831B62358900AD43E7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F454E6651B62358900AD43E7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F454E6721B62358900AD43E7 /* AppDelegate.m in Sources */,
+				F454E6751B62358900AD43E7 /* Mobility_Collector.xcdatamodeld in Sources */,
+				F454E6781B62358900AD43E7 /* ViewController.m in Sources */,
+				F454E66F1B62358900AD43E7 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F454E6811B62358900AD43E7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F454E68C1B62358900AD43E7 /* Mobility_CollectorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F454E6871B62358900AD43E7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F454E6681B62358900AD43E7 /* Mobility Collector */;
+			targetProxy = F454E6861B62358900AD43E7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F454E6791B62358900AD43E7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F454E67A1B62358900AD43E7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F454E67E1B62358900AD43E7 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F454E67F1B62358900AD43E7 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F454E68D1B62358900AD43E7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		F454E68E1B62358900AD43E7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F454E6901B62358900AD43E7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Mobility Collector/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		F454E6911B62358900AD43E7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Mobility Collector/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		F454E6931B62358900AD43E7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Mobility CollectorTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mobility Collector.app/Mobility Collector";
+			};
+			name = Debug;
+		};
+		F454E6941B62358900AD43E7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Mobility CollectorTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mobility Collector.app/Mobility Collector";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F454E6641B62358800AD43E7 /* Build configuration list for PBXProject "Mobility Collector" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F454E68D1B62358900AD43E7 /* Debug */,
+				F454E68E1B62358900AD43E7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F454E68F1B62358900AD43E7 /* Build configuration list for PBXNativeTarget "Mobility Collector" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F454E6901B62358900AD43E7 /* Debug */,
+				F454E6911B62358900AD43E7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		F454E6921B62358900AD43E7 /* Build configuration list for PBXNativeTarget "Mobility CollectorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F454E6931B62358900AD43E7 /* Debug */,
+				F454E6941B62358900AD43E7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F454E6731B62358900AD43E7 /* Mobility_Collector.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F454E6741B62358900AD43E7 /* Mobility_Collector.xcdatamodel */,
+			);
+			currentVersion = F454E6741B62358900AD43E7 /* Mobility_Collector.xcdatamodel */;
+			path = Mobility_Collector.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = F454E6611B62358800AD43E7 /* Project object */;
+}
