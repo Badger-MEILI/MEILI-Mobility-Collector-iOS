@@ -1,0 +1,63 @@
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "053-Jb-qfO"; */
+"053-Jb-qfO.title" = "About";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0IW-t1-Oan"; */
+"0IW-t1-Oan.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "1ZQ-z8-1Fd"; */
+"1ZQ-z8-1Fd.text" = "Password";
+
+/* Class = "UITextView"; text = "This mobile application seamlessly collects trips (movement traces, transitions and stays / destinations) of its user and it is part of the MEILI System, which is composed of this mobile application and a web application that allows the periodic convenient travel-diary-annotation of the collected trips. The collected travel diaries give valuable insight into the travel needs of individuals and the population, which are essential in transportation planning. The use of the MEILI Mobility Collector is voluntary. The mobile- and web applications give user-controls for suspending collection or deleting a collected trip and the collected data is only analyzed in an anonymous form for research purposes."; ObjectID = "2Bo-Fu-CFc"; */
+"2Bo-Fu-CFc.text" = "This mobile application seamlessly collects trips (movement traces, transitions and stays / destinations) of its user and it is part of the MEILI System, which is composed of this mobile application and a web application that allows the periodic convenient travel-diary-annotation of the collected trips. The collected travel diaries give valuable insight into the travel needs of individuals and the population, which are essential in transportation planning. The use of the MEILI Mobility Collector is voluntary. The mobile- and web applications give user-controls for suspending collection or deleting a collected trip and the collected data is only analyzed in an anonymous form for research purposes.";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "2y0-0j-Bhp"; */
+"2y0-0j-Bhp.normalTitle" = "Login";
+
+/* Class = "UITextView"; text = "This mobile application seamlessly collects trips (movement traces, transitions and stays / destinations) of its user and it is part of the MEILI System, which is composed of this mobile application and a web application that allows the periodic convenient travel-diary-annotation of the collected trips. The collected travel diaries give valuable insight into the travel needs of individuals and the population, which are essential in transportation planning. The use of the MEILI Mobility Collector is voluntary. The mobile- and web applications give user-controls for suspending collection or deleting a collected trip and the collected data is only analyzed in an anonymous form for research purposes."; ObjectID = "7zT-8v-EQ4"; */
+"7zT-8v-EQ4.text" = "This mobile application seamlessly collects trips (movement traces, transitions and stays / destinations) of its user and it is part of the MEILI System, which is composed of this mobile application and a web application that allows the periodic convenient travel-diary-annotation of the collected trips. The collected travel diaries give valuable insight into the travel needs of individuals and the population, which are essential in transportation planning. The use of the MEILI Mobility Collector is voluntary. The mobile- and web applications give user-controls for suspending collection or deleting a collected trip and the collected data is only analyzed in an anonymous form for research purposes.";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "8of-PM-5xE"; */
+"8of-PM-5xE.text" = "Password";
+
+/* Class = "UITextView"; text = "This mobile application seamlessly collects trips (movement traces, transitions and stays / destinations) of its user and it is part of the MEILI System, which is composed of this mobile application and a web application that allows the periodic convenient travel-diary-annotation of the collected trips. The collected travel diaries give valuable insight into the travel needs of individuals and the population, which are essential in transportation planning. The use of the MEILI Mobility Collector is voluntary. The mobile- and web applications give user-controls for suspending collection or deleting a collected trip and the collected data is only analyzed in an anonymous form for research purposes."; ObjectID = "AZP-7I-gKi"; */
+"AZP-7I-gKi.text" = "This mobile application seamlessly collects trips (movement traces, transitions and stays / destinations) of its user and it is part of the MEILI System, which is composed of this mobile application and a web application that allows the periodic convenient travel-diary-annotation of the collected trips. The collected travel diaries give valuable insight into the travel needs of individuals and the population, which are essential in transportation planning. The use of the MEILI Mobility Collector is voluntary. The mobile- and web applications give user-controls for suspending collection or deleting a collected trip and the collected data is only analyzed in an anonymous form for research purposes.";
+
+/* Class = "UIButton"; normalTitle = "Register as a new user"; ObjectID = "BEY-12-o7M"; */
+"BEY-12-o7M.normalTitle" = "Register as a new user";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "CjM-SR-bi3"; */
+"CjM-SR-bi3.text" = "Username";
+
+/* Class = "UILabel"; text = "MEILI Mobility Collector"; ObjectID = "GSr-WE-DAt"; */
+"GSr-WE-DAt.text" = "MEILI Mobility Collector";
+
+/* Class = "UILabel"; text = "Retype Password"; ObjectID = "H45-hg-dnu"; */
+"H45-hg-dnu.text" = "Retype Password";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "HS7-mw-7dd"; */
+"HS7-mw-7dd.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "MEILI Mobility Collector"; ObjectID = "IG4-cn-GyP"; */
+"IG4-cn-GyP.text" = "MEILI Mobility Collector";
+
+/* Class = "UILabel"; text = "MEILI Mobility Collector"; ObjectID = "NfY-SU-9W1"; */
+"NfY-SU-9W1.text" = "MEILI Mobility Collector";
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "OM5-07-Thl"; */
+"OM5-07-Thl.title" = "About";
+
+/* Class = "UILabel"; text = "v1.0.1"; ObjectID = "RQA-P0-H5N"; */
+"RQA-P0-H5N.text" = "v1.0.1";
+
+/* Class = "UIButton"; normalTitle = "Register and login"; ObjectID = "b73-Ho-51p"; */
+"b73-Ho-51p.normalTitle" = "Register and login";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "fFT-tO-uKz"; */
+"fFT-tO-uKz.text" = "Username";
+
+/* Class = "UITextView"; text = "The MEILI System is funded by the Swedish Transport Administration (TRV 2014/10422) and developed by the SPOT Project Team"; ObjectID = "nzx-5i-VDD"; */
+"nzx-5i-VDD.text" = "The MEILI System is funded by the Swedish Transport Administration (TRV 2014/10422) and developed by the SPOT Project Team";
+
+/* Class = "UILabel"; text = "MEILI Mobility Collector"; ObjectID = "urs-SZ-QPg"; */
+"urs-SZ-QPg.text" = "MEILI Mobility Collector";

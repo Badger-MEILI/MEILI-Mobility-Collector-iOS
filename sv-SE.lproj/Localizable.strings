@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  Mobility Collector
+
+  Created by Adrian Corneliu Prelipcean on 27/07/15.
+  Copyright (c) 2015 Adrian Corneliu Prelipcean. All rights reserved.
+*/
+
+"app_name"="MEILI Mobility Collector";
+"regularUsernameText"="Användarnamn";
+"regularPasswordText"="Lösenord";
+"registerNewUserText"="Registrera dig som ny användare";
+"loginText"="Logga in";
+"registerAndLoginButton"="Registrera dig och logga in";
+"titleControlCenter"="MEILI Mobility Collector Control Center";
+"subTitleText"="MEILI Systemet finansieras av Trafikverket (TRV 2014/10422) och utvecklas av deltagande parter i den SPOT projekt";
+"versionText"="v1.0.7";
+"contentText"="Denna mobilapplikation samlar kontinuerligt in de resor (rörelsespår, byten och stopp/destinationer) som dess användare gör. Mobilapplikationen är en del av MEILI Systemet som även består av en webbapplikation som förenklar arbetet med att korrigera insamlad resdata. All insamlade resedata ger en värdefull insikt i resebehov hos befolkningen, något som är ett ovärderligt underlag vid transportplanering. Användningen av MEILI Mobility Collector är frivillig. Systemet ger användaren möjlighet att närsomhelst avbryta insamlandet av data eller radera en insamlad resa. De insamlade uppgifterna kommer endast att analyseras anonymt och användas för forskningsändamål.";
+"closeButtonText"="Stäng";
+
+"adminTitleText"="Administrativt Läge";
+"sudoEmailText"="Administratör";
+"sudoPasswordText"="Lösenord";
+"sudoCredentialsWrongMessage"="Felaktigt användarnamn eller lösenord!";
+
+"menuAboutText"="Om";
+"menuAdminText"="Administratör";
+"menuStatusText"="DB Status";
+"menuUploadText"="Manuell Överföring";
+
+"yesText"="Ja";
+"noText"="Nej";
+"enableGPSBody"="Vill du sätta på GPS-mottagaren?";
+"enableGPSTitle"="GPS-mottagaren är avstängd";
+"serviceDisableBody"="Vill du stänga av MEILI Mobility Collector?";
+"serviceDisableTitle"="Tjänsten";
+"stopCollectionText"="Stoppa insamling";
+"startCollectionText"="Starta insamling";
+
+"notificationTitle"="Du samlar för närvarande in data";
+"notificationActionText"="Hantera datainsamlingen";
+
+"deactivateGPSWarning"="Avaktivering av GPS eller WiFi kommer att störa datainsamlingen!";
+"internetConnectionWarning"="Se till så att du är uppkopplad till Internet när du försöker logga in eller registrera dig!";
+"credentialsMissmatchWarning"="Fyll i alla fält!";
+"confirmPassword"="Upprepa lösenord!";
+"passwordError"="Lösenorden matchar inte!";
+"emailWarning"="Ange en giltig e-postadress!";
+
+"confirmUpload"="Manuell uppladdning genomförd";
+"infirmUpload"="Manuell upladdning misslyckades";
